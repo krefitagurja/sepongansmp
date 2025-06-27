@@ -1,2 +1,1 @@
-# sepongansmp
-sepongansmp
+# [sepongansmp](https://sepongansmp.pages.dev)
